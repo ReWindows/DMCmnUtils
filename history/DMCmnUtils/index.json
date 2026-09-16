@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "DMCmnUtils.dll",
+  "latest": "3303997046-DC71435A82F311F71E99AF34D7E121D3-1",
+  "builds": [
+    {
+      "key": "3303997046-DC71435A82F311F71E99AF34D7E121D3-1",
+      "timestamp": "3303997046",
+      "pdb_guid": "DC71435A82F311F71E99AF34D7E121D3",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3303997046-DC71435A82F311F71E99AF34D7E121D3-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
